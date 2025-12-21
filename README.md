@@ -1,4 +1,4 @@
-# opencv-python tutorial
+# opencv-python tutorial from "Geeks for Geeks"
 
 ## Clone the repository
 * git clone https://github.com/mohammed3120/opencv-python_tutorial.git
